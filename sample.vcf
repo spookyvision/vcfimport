@@ -1,0 +1,19 @@
+BEGIN:VCARD
+VERSION:2.1
+N;CHARSET=UTF-8:Doe;Jon;;
+FN;CHARSET=UTF-8:Jon Doe
+SORT-STRING:doe
+CLASS:PRIVATE
+EMAIL;TYPE=internet;type=WORK;type=pref:abc@example.com
+BDAY:1978-01-24
+ADR;TYPE=work;CHARSET=UTF-8:;;Example Road 1;Exampletown;Exampletown;20099;Germany
+ADR;TYPE=home;CHARSET=UTF-8:;;Example Road 1;Exampletown;Exampletown;20099;Germany
+TEL;TYPE=cell,work:+49-111-11111111
+ORG;CHARSET=UTF-8:Example LLC
+TITLE;CHARSET=UTF-8:Consultant
+CATEGORIES;CHARSET=UTF-8:IT
+PHOTO;VALUE=URI:http://www.example.com/photo.jpg
+NOTE;CHARSET=UTF-8:28.04.2009, 14:31 - XING - http://www.xing.com
+PRODID:-//XING//www.xing.com//epublica//www.epublica.de//Version 1.3
+UID:XING-UID-XXXX
+END:VCARD

@@ -1,0 +1,7 @@
+vcfimport -- reads a vCard (.vcf) file and imports the respective birthdays into google calendar
+
+by Anatol Ulrich | hypnocode
+au@hypnocode.net
+www.hypnocode.net
+
+includes google data APIs -> Licensed under the Apache License, Version 2.0 (the "License")
